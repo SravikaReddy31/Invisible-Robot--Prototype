@@ -112,10 +112,6 @@ This project is currently under development.
 
 ---
 
-## Media
-Images and demonstration videos will be added after the hardware expo presentation.
-
----
-
 ## Disclaimer
 This project is intended for educational and research purposes only.
+
