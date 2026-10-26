@@ -1,4 +1,4 @@
-# Invisible Robot for Military Safety (Stage 1)
+# Invisible Robot for Military Safety 
 
 ## Project Overview
 The Invisible Robot for Military Safety is a Raspberry Pi–based robotic system designed to move ahead of soldiers in hostile or unknown environments. The main purpose of this robot is to reduce risk to human life by detecting obstacles or potential dangers before soldiers enter an area.
